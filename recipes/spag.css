@@ -1,0 +1,14 @@
+*{
+    font-family:"Arial", "Helvetica", sans-serif;
+    background-color: rgb(231, 45, 45);
+}
+
+
+img {
+    margin:0 auto;
+    display:block;
+}
+
+li {
+    margin-bottom:15px;
+}
