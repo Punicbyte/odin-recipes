@@ -1,0 +1,40 @@
+* {
+    background-color: rgb(241, 76, 76);
+}
+
+li {
+    width:35vh;
+    border-bottom:5px solid gray;
+    margin-bottom:59px;
+}
+
+h1 {
+    text-align:center;
+
+}
+
+#div2{
+font-size:25px;
+height:300px;
+width:90vw;
+border:2px solid black;
+display: flex;
+justify-content:space-between;
+margin:0 auto;
+
+}
+
+article {
+    text-align:center;
+    width:100%;
+}
+
+.top-container{
+    display:flex;
+    margin-top:-150px;
+    margin-right:50px;
+    justify-content:flex-end;
+    align-items:center;
+    margin-bottom:35px;
+}
+
